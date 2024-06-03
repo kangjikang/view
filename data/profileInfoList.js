@@ -1,4 +1,4 @@
-import profile개발자 from '@/public/profile/개발자.png';
+import profile김수현 from '@/public/profile/김수현.png';
 import profile김영광 from '@/public/profile/김영광.png';
 import profile박보검 from '@/public/profile/박보검.png';
 import profile서강준 from '@/public/profile/서강준.png';
@@ -13,13 +13,13 @@ import profile이진욱 from '@/public/profile/이진욱.png';
 import profile정경호 from '@/public/profile/정경호.png';
 import profile조정석 from '@/public/profile/조정석.png';
 import profile채종협 from '@/public/profile/채종협.png';
-import profile홍경 from '@/public/profile/홍경.png';
+import profile정해인 from '@/public/profile/정해인.png';
 
 const profileInfoList = [
   {
     idx: 1,
-    name: '개발자',
-    image:profile개발자,
+    name: '김수현',
+    image:profile김수현,
   },
   {
     idx: 2,
@@ -93,8 +93,8 @@ const profileInfoList = [
   },
   {
     idx: 16,
-    name: '홍경',
-    image:profile홍경,
+    name: '정해인',
+    image:profile정해인,
   },
 ];
 
