@@ -24,7 +24,7 @@ export default function Profile({ profileInfo, buttonVisibility, onClick }) {
             className="aspect-[2/1]"
             onClick={() => onClick(profileInfo)}
           >
-            ✋ 선택 ✋
+            ❤️ 선택 ❤️
           </Button>
         )}
       </div>

@@ -99,7 +99,7 @@ export default function ChoiceOne() {
       <div className="w-full h-12 flex justify-center items-center">
         <div className="text-2xl font-bold">
           {chunkProfileInfoList.length === 1 ? (
-            <>!👀!👀! 결승 !👀!👀!</>
+            <>❤️💕😍😍 결승 🤩🤩💕❤️</>
           ) : (
             <>
               🚩 {chunkProfileInfoList.length * 2} 강 ({chunkIndex + 1} /{' '}
